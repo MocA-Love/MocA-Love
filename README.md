@@ -12,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile icon](https://github.com/MocA-Love.png)
+
+# Languages
+- Python
+- C-lang (勉強中)
+
+# Contact
+Twitter: [@myk_musou](https://twitter.com/__MocA-Love)  
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MocA-Love&count_private=true&show_icons=true&theme=react" />

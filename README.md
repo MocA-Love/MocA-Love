@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Note
 - ふぁふぁふぁっふぁふぁふぁふぁふぁふぁｆ
 
-# Languages
+# Language
 - Python
 - C-lang (勉強中)
 

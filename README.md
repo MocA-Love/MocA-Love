@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Note
-- ふぁふぁふぁっふぁふぁふぁふぁふぁふぁｆ
+- 呼吸するよりもApexがしたい
 
 # Language
 - Python
-- C-lang (勉強中)
+- Go
+- C/C++
 
 # Contact
 Twitter: [@__MocA_Love](https://twitter.com/__MocA_Love)  

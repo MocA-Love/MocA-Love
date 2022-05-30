@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - C/C++
 
 # Contact
-Twitter: [@__MocA_Love](https://twitter.com/__MocA_Love)  
+Twitter: [@MagUx_xU](https://twitter.com/MagUx_xU)  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

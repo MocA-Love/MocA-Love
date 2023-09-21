@@ -1,6 +1,6 @@
 # About
-20 years old
-Embedded engineer
+- 20 years old
+- Embedded engineer
 
 # Note
 - I need Tokyo :)
@@ -11,7 +11,7 @@ Embedded engineer
 - C/C++
 
 # Contact
-Twitter: [@MagUx_xU](https://twitter.com/MagUx_xU)  
+Twitter : [@MagUx_xU](https://twitter.com/MagUx_xU)  
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

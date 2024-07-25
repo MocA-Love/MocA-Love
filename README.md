@@ -8,7 +8,9 @@
 # Language
 - Python
 - Go
-- C/C++
+- C
+- C++
+- Java
 
 # Contact
 Twitter : [@MagUx_xU](https://twitter.com/MagUx_xU)  

@@ -1,6 +1,6 @@
 # About
-- 21 years old
-- Embedded engineer
+- ?? years old
+- Software engineer
 
 # Note
 - I need Tokyo :)
@@ -11,6 +11,7 @@
 - C
 - C++
 - Java
+- Rust (studying)
 
 # Contact
 Twitter : [@MagUx_xU](https://twitter.com/MagUx_xU)  

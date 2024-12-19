@@ -1,5 +1,4 @@
 
-<h1 align="center">Tokyo vibes 🌸</h1>
 <div align="center">
 	<br>
 	<div style="width: 100%; height: 400px;">

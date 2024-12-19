@@ -3,7 +3,7 @@
 	<br>
 	<picture>
 		<source media="(min-width: 720px)" srcset="./svg/lg.svg" width="80%" height="auto">
-		<img src="./svg/sm.svg" alt="hero" width="200" height="auto" media="(max-width: 767px)">
+		<img src="./svg/sm.svg" alt="hero" media="(max-width: 767px)">
 	</picture>
 	<br>
 </div>

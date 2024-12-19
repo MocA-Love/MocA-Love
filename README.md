@@ -2,7 +2,8 @@
 <div align="center">
 	<br>
 	<div style="width: 100%; height: 400px;">
-		<img src="./svg/lg.svg" alt="hero" width="80%" height="auto">
+		<img src="./svg/lg.svg" alt="hero" width="80%" height="auto" media="(min-width: 768px)">
+		<img src="./svg/lg.svg" alt="hero" width="10%" height="auto" media="(max-width: 767px)">
 	</div>
 	<br>
 </div>

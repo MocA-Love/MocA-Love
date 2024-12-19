@@ -1,8 +1,12 @@
 
-<h1 align="center">Hi, Im Tuna🐟</h1>
-<p align="center">
-  <em>Software Engineer | Tokyo vibes 🌸 </em>
-</p>
+<h1 align="center">Tokyo vibes 🌸</h1>
+<div align="center">
+	<br>
+	<div style="width: 100%; height: 400px;">
+		<img src="./svg/lg.svg" alt="hero">
+	</div>
+	<br>
+</div>
 
 ## About Me
 - 🎂 **Age:** ?? years old :)

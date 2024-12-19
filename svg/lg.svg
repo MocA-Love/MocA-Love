@@ -117,7 +117,7 @@
                     -webkit-text-fill-color: transparent;
                     background-clip: text;
                     text-fill-color: transparent;
-                    animation: movebg 25s cubic-bezier(0.3, 0, 0.2, 1) infinite;
+                    animation: movebg 30s cubic-bezier(0.3, 0, 0.2, 1) infinite;
                     filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.2));
                     text-shadow: 0 0 8px rgba(143, 16, 185, 0.25);
                 }

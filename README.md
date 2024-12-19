@@ -2,16 +2,10 @@
 <div align="center">
 	<br>
 	<div style="width: 100%; height: 400px;">
-		<img src="./svg/lg.svg" alt="hero">
+		<img src="./svg/lg.svg" alt="hero" width="80%" height="auto">
 	</div>
 	<br>
 </div>
-
-## About Me
-- 🎂 **Age:** ?? years old :)
-- 🌍 **Location:** Tokyo, Japan
-- 💼 **Occupation:** Software Engineer
-- 🚀 **Currently Learning:** Rust
 
 ## 🛠️ Skills
 

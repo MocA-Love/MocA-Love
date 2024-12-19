@@ -35,8 +35,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-73dh.vercel.app/api?username=MocA-Love&show_icons=true&theme=transparent&count_private=true&hide=contribs" alt="MocA-LoveのGitHubステータス" />
-  <img src="https://github-readme-stats-73dh.vercel.app/api/top-langs/?username=MocA-Love&theme=transparent&layout=compact" alt="トップ言語" />
+  <img src="https://github-readme-stats-73dh.vercel.app/api?username=MocA-Love&show_icons=true&theme=transparent&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-73dh.vercel.app/api/top-langs/?username=MocA-Love&theme=transparent&layout=compact" alt="Top lang" />
 </div>
 
 ## 📫 Contact

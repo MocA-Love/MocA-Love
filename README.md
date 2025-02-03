@@ -26,7 +26,7 @@
 
 ### ☁️ Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 
 

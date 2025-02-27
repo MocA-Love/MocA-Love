@@ -20,8 +20,8 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=007396)
 
 ### 🏗️ Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![VitePress](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vitepress&logoColor=61DAFB)
 ![VitePress](https://img.shields.io/badge/VitePress-000000?style=for-the-badge&logo=vitepress&logoColor=61DAFB)
 
@@ -29,8 +29,16 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
 
-
+### 🎨 Prompt Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=007396)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google-gemini&logoColor=4285F4)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=ffb000)
+![Llama](https://img.shields.io/badge/Llama-000000?style=for-the-badge&logo=meta&logoColor=1877F2)
 
 
 ## 📝 Notes

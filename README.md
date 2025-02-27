@@ -22,6 +22,7 @@
 ### 🏗️ Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VitePress](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vitepress&logoColor=61DAFB)
 ![VitePress](https://img.shields.io/badge/VitePress-000000?style=for-the-badge&logo=vitepress&logoColor=61DAFB)
 
 ### ☁️ Cloud Platforms

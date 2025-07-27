@@ -48,7 +48,10 @@
 <div align="center">
   <img src="https://github-readme-stats-73dh.vercel.app/api?username=MocA-Love&show_icons=true&theme=transparent&count_private=true&hide=contribs" alt="GitHub Stats" />
   <img src="https://github-readme-stats-73dh.vercel.app/api/top-langs/?username=MocA-Love&theme=transparent&layout=compact" alt="Top lang" />
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/MocA-Love" alt="Developer Score">
 </div>
+
+
 
 ## 📫 Contact
 - **X(Twitter):** [@MagUx_xU](https://twitter.com/MagUx_xU)

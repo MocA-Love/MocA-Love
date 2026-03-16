@@ -6,7 +6,14 @@
 		<img src="./svg/sm.png" alt="hero" width="100%" height="auto" media="(max-width: 767px)">
 	</picture>
 	<br>
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake.svg" />
+	  <img alt="github-snake" src="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake.svg" />
+	</picture>
 </div>
+
+
 
 ## 🛠️ Skills
 
@@ -53,11 +60,6 @@
   <img src="https://github-stats-eta-two.vercel.app/api/stats/MocA-Love?theme=github" alt="Developer Score">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MocA-Love/MocA-Love/output/github-snake.svg" />
-</picture>
 
 ## 📫 Contact
 - **X(Twitter):** [@MagUx_xU](https://twitter.com/MagUx_xU)
